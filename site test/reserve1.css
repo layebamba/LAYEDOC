@@ -1,0 +1,265 @@
+body{margin: opx;
+padding: 0px;}
+#contenu{
+        max-width: 1200px;
+        width: 80%;
+        margin: auto;
+        height: 800px;}
+        a
+        {
+            background-color: aqua;
+        }
+        h2
+        {
+           color: blue;
+           text-decoration: underline;
+        }
+        .title-style
+        {
+            padding-top: 50px;
+            
+        }
+        #entete
+{
+    height: 25%;
+    background-image: url(game.jpg)
+    
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url("file:///home/laye/Bureau/site%20test/Hotel_image.png");
+    background-color:grey;
+}
+#contenu
+{
+    max-width: 1200px;
+    width: 90%;
+    margin: auto;
+    
+}
+/*En tete*/
+#entete
+{
+    background-color: rgb(5, 5, 5);
+    width: 100%;
+    height: 70px;
+    color: white;
+}
+#map
+{
+    position: relative;
+    right: -10%;
+    top: -140px;
+}
+#imgtel
+{
+    position: relative;
+    right: -30%;
+    top: 15px;
+}
+#ptel
+{
+    position: relative;
+    right: -32.5%;
+    top: -10px;
+}
+#imgcontact
+{
+    position: relative;
+    right: -46.9%;
+    top: -55px;
+}
+#pcontact
+{
+    position: relative;
+    right: -50%;
+    top: -80px;
+}
+#lanreser
+{
+
+    width: 5%;
+    position: relative;
+    top: 30%;
+    right: -70%;
+
+}
+#langue
+{
+    position: relative;
+    right: -68%;
+    top: -145px;
+    border:  none;
+    background-color: black;
+    color: #fff;
+}
+#bouton
+{
+    position: relative;
+    right: -230%;
+    top: -169px;
+    border:  none;
+    background-color:blue;
+    color: #fff;
+    height: 27px;
+    line-height: 2px;
+}
+#bouton a
+{
+    text-decoration: none;
+    color: #fff;
+}
+/*-----------------------Navigation-----------------------*/
+nav
+{
+    margin: 0;
+    padding: 0;
+    
+    background-color:white;
+    height: 200px;
+    width: 100%;
+    
+}
+#logo
+{
+    width: 20%;
+    position: relative;
+    top: 10px;
+    right: -15px;
+
+}
+ul
+{
+    list-style-type: none;
+}
+li
+{
+    display: inline-block;
+    position: relative;
+    right: -28%;
+    top: -100px;
+
+
+}
+.border_right
+{
+    border-right: 1px solid rgb(207, 207, 207);
+    line-height: 30px;
+    text-align: center;
+    padding: 2px;
+    position: relative;
+    top: -100px;
+    left: 260px;
+    top: -100px;
+
+}
+#border_right_last
+{
+    position: relative;
+    left: 260px;
+    top: -100px;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#navmenu a:hover
+{
+    color: #1B8D9A;
+    border-bottom: 5px solid red;
+    text-decoration: none;
+}
+
+.navmenue a:hover
+{
+    color: #1B8D9A;
+    border-bottom: 5px solid red;
+    text-decoration: none;
+}
+
+.navmenu a:active
+{
+    color:  #FAAA20;
+    text-decoration: none;
+}
+/*----------------------------------CORPS---------------------------------------------*/
+
+#landing
+{
+    height: 350px;
+}
+/*------------------------------------FOOTEER-------------------------------------------*/
+footer
+{
+    background-color:  #000;
+}
+#rs
+{
+    position: relative;
+    width: 16%;
+    text-align: center;
+    right: -5%;
+    bottom: -95px;
+    color: #fff
+
+}
+#NL
+{
+    color: #fff;
+    position: relative;
+    width: 36%;
+    right: -30%;
+    top: -10px;
+    text-align: center;
+    height: 90px;
+}
+#mail
+{
+    border: none;
+    height: 25px;
+}
+#inscri
+{
+    background-color:blue;
+    border: none;
+    height: 27px;
+    position: relative;
+    right: -2%;
+}
+#inscri a
+{
+    color: #fff;
+}
+#localisation
+{
+
+    width: 35%;
+    color: #fff;
+    position: relative;
+    right: -65%;
+    top: -122px;
+    text-align: center;
+}
+#droit_auteur
+{
+    border-top: 1px solid rgb(173, 170, 170);
+    position: relative;
+    top: -60px;
+    color: #fff;
+    text-align: center;
+}
+#idcopyright
+{
+    position: relative;
+    bottom: -19px;
+}
+
+
+
+
+
+
